@@ -6,3 +6,5 @@
 ## Tools Used
 - DB Fiddle
 - GitHub
+
+Completed SQL basic practice queries using DB Fiddle.
